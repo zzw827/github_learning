@@ -1,18 +1,6 @@
-# React For Redux Mbox Exercise
+# github Exercise
 
-本项目用于练习 Redux 和 Mbox with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-React 中的状态如何进行管理的呢？
-
-1.组件内部私有状态 2.通过 Mobx redux 这种 进行共享 state
-
-使用 redux Mbox 这种东西 主要是 实现数据共享 以及 (对共享数据的规范处理)
-
-不使用 Context 的时候 那么就每层传递 props 一层一层传递下去
-
-使用 Context 的时候就可以直接再第一层 声明 然后每层都可以使用
+本项目用于练习 git 的基本命令
 
 ### `认识Redux`
 
@@ -64,6 +52,5 @@ git stash apply(把之前存放的内容弹出来 堆栈信息还在不会删除
 ## 指定不需要 git 管理的工具
 
 创建 .gitignore
-
 
 ##git remote 绑定远程仓库
