@@ -17,14 +17,14 @@ git log -n4 --oneline 简洁的显示四个
 git log 的以前是 当前版本的历史
 
 ### `git branch`
-
+git branch -a (查看所有的分支)
 git branch (查看分支)
 git checkout -b newBranchname master (创建基于 master 的新分支)
 git branch -D test (删除分支)
 
 ### `git commit`
 
-git commit --amend (修改最新的 message)
+git commit --amend (修改最新的commit的 message)
 git rebase -i (commitid) ctrlX 切换到输入栏 :wq 退出 (修改哪一个 commit 以前一个为例)
 
 ### `git diff`
