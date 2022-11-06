@@ -39,6 +39,10 @@ git reset --hard HEAD 充值到之前的状态
 
 git diff temp(分支/commitI d) master(分支/commitId) index.html 两个 commit 之间 文件的差异
 
+
+### `git merge`
+ git merge origin/feature/other_add_commit  (远端一起合作分支有人更新 需要合并)
+
 ## 正确删除文件的方法
 
 让暂存区干掉他 git rm <file>
