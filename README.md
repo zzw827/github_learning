@@ -2,7 +2,7 @@
 
 本项目用于练习 git 的基本命令
 
-### `认识Redux`
+### `认识git 操作`
 
 git 重命名
 
@@ -53,8 +53,10 @@ git stash list (stash 列表)
 git stash pop (弹出来就没了)
 git stash apply(把之前存放的内容弹出来 堆栈信息还在不会删除)
 
-## 指定不需要 git 管理的工具
-
+## 指定不需要 git 管理的文件
 创建 .gitignore
-
 ##git remote 绑定远程仓库
+
+
+## 如何 输入 ：wq 回到命令行
+按下ESC 然后 :wq就可以回去
